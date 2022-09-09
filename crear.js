@@ -16,6 +16,5 @@ if (err) {
 	console.log(err);
 	return;
 }
- // Success
 	console.log("Table Created");
 });
